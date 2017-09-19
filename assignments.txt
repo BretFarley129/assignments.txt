@@ -1,0 +1,146 @@
+Microsoft Windows [Version 6.1.7601]
+Copyright (c) 2009 Microsoft Corporation.  All rights reserved.
+
+C:\Users\Bret>cd desktop
+
+C:\Users\Bret\Desktop>md DojoAssignments
+
+C:\Users\Bret\Desktop>cd DojoAssignments
+
+C:\Users\Bret\Desktop\DojoAssignments>md WebFundamentals
+
+C:\Users\Bret\Desktop\DojoAssignments>md Python
+
+C:\Users\Bret\Desktop\DojoAssignments>md MEAN
+
+C:\Users\Bret\Desktop\DojoAssignments>md Ruby
+
+C:\Users\Bret\Desktop\DojoAssignments>md iOS
+
+C:\Users\Bret\Desktop\DojoAssignments>md netCore
+
+C:\Users\Bret\Desktop\DojoAssignments>cd webfundamentals
+
+C:\Users\Bret\Desktop\DojoAssignments\WebFundamentals>copy NUL about.txt
+        1 file(s) copied.
+
+C:\Users\Bret\Desktop\DojoAssignments\WebFundamentals>cd ..
+
+C:\Users\Bret\Desktop\DojoAssignments>cd Python
+
+C:\Users\Bret\Desktop\DojoAssignments\Python>copy nul about.txt
+        1 file(s) copied.
+
+C:\Users\Bret\Desktop\DojoAssignments\Python>cd ..
+
+C:\Users\Bret\Desktop\DojoAssignments>cd MEAN
+
+C:\Users\Bret\Desktop\DojoAssignments\MEAN>copy nul about.txt
+        1 file(s) copied.
+
+C:\Users\Bret\Desktop\DojoAssignments\MEAN>cd ..
+
+C:\Users\Bret\Desktop\DojoAssignments>cd ruby
+
+C:\Users\Bret\Desktop\DojoAssignments\Ruby>copy nul about.txt
+        1 file(s) copied.
+
+C:\Users\Bret\Desktop\DojoAssignments\Ruby>cd ..
+
+C:\Users\Bret\Desktop\DojoAssignments>cd ios
+
+C:\Users\Bret\Desktop\DojoAssignments\iOS>copy nul about.txt
+        1 file(s) copied.
+
+C:\Users\Bret\Desktop\DojoAssignments\iOS>cd ..
+
+C:\Users\Bret\Desktop\DojoAssignments>cd netcore
+
+C:\Users\Bret\Desktop\DojoAssignments\netCore>copy nul about txt
+The syntax of the command is incorrect.
+
+C:\Users\Bret\Desktop\DojoAssignments\netCore>copy nul about. txt
+The syntax of the command is incorrect.
+
+C:\Users\Bret\Desktop\DojoAssignments\netCore>copy nul about. txt
+The syntax of the command is incorrect.
+
+C:\Users\Bret\Desktop\DojoAssignments\netCore>copy nul about.txt
+        1 file(s) copied.
+
+C:\Users\Bret\Desktop\DojoAssignments\netCore>cd ..
+
+C:\Users\Bret\Desktop\DojoAssignments>cd webfundamentals
+
+C:\Users\Bret\Desktop\DojoAssignments\WebFundamentals>md Git
+
+C:\Users\Bret\Desktop\DojoAssignments\WebFundamentals>md HTML
+
+C:\Users\Bret\Desktop\DojoAssignments\WebFundamentals>md CSS
+
+C:\Users\Bret\Desktop\DojoAssignments\WebFundamentals>md Javascript
+
+C:\Users\Bret\Desktop\DojoAssignments\WebFundamentals>cd git
+
+C:\Users\Bret\Desktop\DojoAssignments\WebFundamentals\Git>copy null about.txt
+The system cannot find the file specified.
+
+C:\Users\Bret\Desktop\DojoAssignments\WebFundamentals\Git>copy nul about.txt
+        1 file(s) copied.
+
+C:\Users\Bret\Desktop\DojoAssignments\WebFundamentals\Git>cd ..
+
+C:\Users\Bret\Desktop\DojoAssignments\WebFundamentals>cd html
+
+C:\Users\Bret\Desktop\DojoAssignments\WebFundamentals\HTML>copy nul about.txt
+        1 file(s) copied.
+
+C:\Users\Bret\Desktop\DojoAssignments\WebFundamentals\HTML>cd ..
+
+C:\Users\Bret\Desktop\DojoAssignments\WebFundamentals>cd css
+
+C:\Users\Bret\Desktop\DojoAssignments\WebFundamentals\CSS>copy nul about.txt
+        1 file(s) copied.
+
+C:\Users\Bret\Desktop\DojoAssignments\WebFundamentals\CSS>cd ..
+
+C:\Users\Bret\Desktop\DojoAssignments\WebFundamentals>cd javascript
+
+C:\Users\Bret\Desktop\DojoAssignments\WebFundamentals\Javascript>copy nul about.
+txt
+        1 file(s) copied.
+
+C:\Users\Bret\Desktop\DojoAssignments\WebFundamentals\Javascript>cd ..
+
+C:\Users\Bret\Desktop\DojoAssignments\WebFundamentals>cd html
+
+C:\Users\Bret\Desktop\DojoAssignments\WebFundamentals\HTML>copy nul indentation.
+html
+        1 file(s) copied.
+
+C:\Users\Bret\Desktop\DojoAssignments\WebFundamentals\HTML>cd ..\..
+
+C:\Users\Bret\Desktop\DojoAssignments>dir /b /s
+C:\Users\Bret\Desktop\DojoAssignments\iOS
+C:\Users\Bret\Desktop\DojoAssignments\MEAN
+C:\Users\Bret\Desktop\DojoAssignments\netCore
+C:\Users\Bret\Desktop\DojoAssignments\Python
+C:\Users\Bret\Desktop\DojoAssignments\Ruby
+C:\Users\Bret\Desktop\DojoAssignments\WebFundamentals
+C:\Users\Bret\Desktop\DojoAssignments\iOS\about.txt
+C:\Users\Bret\Desktop\DojoAssignments\MEAN\about.txt
+C:\Users\Bret\Desktop\DojoAssignments\netCore\about.txt
+C:\Users\Bret\Desktop\DojoAssignments\Python\about.txt
+C:\Users\Bret\Desktop\DojoAssignments\Ruby\about.txt
+C:\Users\Bret\Desktop\DojoAssignments\WebFundamentals\about.txt
+C:\Users\Bret\Desktop\DojoAssignments\WebFundamentals\CSS
+C:\Users\Bret\Desktop\DojoAssignments\WebFundamentals\Git
+C:\Users\Bret\Desktop\DojoAssignments\WebFundamentals\HTML
+C:\Users\Bret\Desktop\DojoAssignments\WebFundamentals\Javascript
+C:\Users\Bret\Desktop\DojoAssignments\WebFundamentals\CSS\about.txt
+C:\Users\Bret\Desktop\DojoAssignments\WebFundamentals\Git\about.txt
+C:\Users\Bret\Desktop\DojoAssignments\WebFundamentals\HTML\about.txt
+C:\Users\Bret\Desktop\DojoAssignments\WebFundamentals\HTML\indentation.html
+C:\Users\Bret\Desktop\DojoAssignments\WebFundamentals\Javascript\about.txt
+
+C:\Users\Bret\Desktop\DojoAssignments>
